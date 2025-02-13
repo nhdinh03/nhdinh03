@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là Nguyễn Hoàng Đình</h1>
+<h1 align="center">Xin chào 👋, tôi là Nguyễn Hoàng Dinh</h1>
 <h3 align="center">Một lập trình viên đến từ Việt Nam</h3>
 
 - 🔭 Dự án cá nhân: [QLShopeTheThao](https://github.com/nhdinh03/shopethethao)
