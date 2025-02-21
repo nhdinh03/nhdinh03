@@ -7,7 +7,7 @@
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
    <a href="https://zalo.me/0389307257" target="_blank">
-    <img class="icon" src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Icon-Zalo-Vector.png" alt="Zalo" height="30" width="30" style="margin-left: 10px;" />
+    <img class="icon" src="https://cdn.haitrieu.com/wp-content/uploads/2022/01/Icon-Zalo-Vector.png](https://icons8.com/icon/0m71tmRjlxEe/zalo" alt="Zalo" height="30" width="30" style="margin-left: 10px;" />
   </a>
   <a href="https://fb.com/nhdinh03" target="_blank">
     <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
