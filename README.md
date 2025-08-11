@@ -1,93 +1,70 @@
-<h1 align="center">Xin chào 👋, tôi là Nguyễn Hoàng Dinh</h1>
-<h3 align="center">Một lập trình viên đến từ Việt Nam</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
+<h3 align="center">Full-Stack Developer (Front-end & Back-end) · Vietnam</h3>
 
-- 📫 Liên hệ: **nhdinhpc03@gmail.com**
-- ⚡ Sở thích: **Ngủ và ngủ hehe**
-
-<h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-   <a href="https://zalo.me/0389307257" target="_blank">
-    <img class="icon" src="https://img.icons8.com/?size=100&id=0m71tmRjlxEe&format=png&color=000000" alt="Zalo" height="30" width="30" style="margin-left: 10px;" />
-  </a>
-  <a href="https://fb.com/nhdinh03" target="_blank">
-    <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nhdinhdz" target="_blank">
-    <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/dY9bgGcm" target="_blank">
-    <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+<p align="center">
+  <b>Building future-ready web products</b> — from concept to scalable production.<br/>
+  <i>Passionate about delivering smooth user experiences and robust, maintainable systems.</i>
 </p>
 
-<h3 align="left">Ngôn ngữ và công cụ:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+---
+
+### 👨‍💻 About Me
+I'm a passionate full‑stack developer who enjoys turning ideas into polished products. I specialise in JavaScript/TypeScript frameworks on the front‑end and API development on the back‑end. I love learning new technologies, designing clean architectures and optimising user experiences. When I'm not coding, I'm exploring system design concepts and improving my DevOps skills.
+
+---
+
+
+### 🛠 Tech Stack
+#### Front‑End
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+
+#### Back‑End
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+#### Databases & DevOps
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+<a href="https://www.microsoft.com/vi-vn/sql-server">
+  <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="48" />
+</a>
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
+
+---
+
+
+## 📈 GitHub Stats  
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nhdinh03&show_icons=true&hide_border=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh03&layout=compact&hide_border=true" alt="Top Languages"/></td>
+  </tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+### 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Email-%20-ff6953?style=flat&logo=gmail&logoColor=white)](mailto:nhdinh.dev03@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%20-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/nhdinh03)
+[![Instagram](https://img.shields.io/badge/Instagram-%20-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nhdinhdz)
+[![Zalo](https://img.shields.io/badge/Zalo-%20-1575F9?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0389307257)
+[![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/6UbbDqKKQN)
+
+<p align="center"><em>Always open for collaboration on impactful tech products. Let's build something amazing together!</em></p>
+
