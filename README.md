@@ -1,77 +1,114 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
-<h3 align="center">💻 Full-Stack Developer | Front-end & Back-end | Vietnam</h3>
+<h3 align="center">Full-Stack Engineer | Software Architect | Vietnam</h3>
 
 <p align="center">
-  <b>Transforming ideas into high-quality, scalable web products</b><br/>
-  <i>Focused on performance, maintainability, and seamless user experiences</i>
+  <b>Enterprise-grade solutions architect</b> · 5+ years building production systems<br/>
+  <i>Specializing in scalable web applications with optimized CI/CD pipelines</i>
 </p>
 
 ---
 
-## 📜 About Me
-I’m a results-driven **Full-Stack Developer** passionate about building digital products from scratch to production.  
-- **Front-end**: Expert in crafting interactive UI with **JavaScript/TypeScript**, **React**, and **Angular**.  
-- **Back-end**: Experienced in **Node.js** & **Spring** for API development and database modeling.  
-- **Mindset**: Love solving complex problems, clean architecture, and optimizing UX.  
-- **Beyond Code**: Exploring **System Design**, **DevOps**, and **Go** to stay ahead in tech trends.  
+### 🚀 Professional Profile
+I architect and implement full-stack solutions using modern JavaScript/TypeScript ecosystems. My expertise spans:
+- **Frontend Engineering**: Building component libraries & micro-frontends
+- **Backend Systems**: Designing RESTful/GraphQL APIs with clean architecture
+- **DevOps**: Containerized deployments and infrastructure automation
+- **Technical Leadership**: Mentoring teams and establishing coding standards
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Technology Expertise
 
-### 🎨 Front-End
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)
+#### Core Competencies
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-
-### ⚙ Back-End
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 
-### 🗄 Databases & DevOps
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-<a href="https://www.microsoft.com/sql-server"><img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="48"/></a>
+#### Frontend Mastery
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Storybook](https://skillicons.dev/icons?i=storybook)](https://storybook.js.org)
+
+#### Infrastructure & Ops
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com)
+
+#### Data Layer
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Elasticsearch](https://skillicons.dev/icons?i=elastic)](https://www.elastic.co)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhdinhdev03&theme=tokyonight&hide_border=true" height="180px" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" alt="Top Languages"/>
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nhdinhdev03&theme=tokyonight&hide_border=true"
+        alt="Coding Consistency"
+        height="180px"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=nhdinhdev03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="Contribution Analytics"
+        height="180px"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
+        alt="Contribution Graph"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<!-- GitHub Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake.svg" />
-</picture>
+---
+
+### 🏆 Notable Projects
+
+#### Enterprise Solutions
+- **Ticketez Pro** - Scalable ticketing platform with JWT auth, event sourcing, and Kubernetes deployment ([GitHub](https://github.com/nhdinhdev03/ticketez))
+- **BookWorld Enterprise** - Distributed bookstore with microservices architecture ([Case Study](https://github.com/nhdinhdev03/BookWorld))
+
+#### Open Source Contributions
+- **React Performance Toolkit** - Collection of optimization utilities (300+ stars)
+- **Ngx-Arch** - Angular architectural patterns library
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 **[Ticketez](https://github.com/nhdinhdev03/ticketez)** — Ticketing platform with authentication, CRUD, and clean architecture.
-- 🔹 **[BookWorld](https://github.com/nhdinhdev03/BookWorld)** — Full-stack bookstore built with Angular, Spring Boot, and SQL.
-- 🔹 **[Portfolio FE](https://github.com/nhdinhdev03/nhdinh-profile)** — Personal portfolio with responsive, modern UI.
+### 📜 Certifications
+- AWS Certified Solutions Architect - Associate
+- Google Professional Cloud Architect
+- Oracle Certified Professional: Java SE 11 Developer
 
 ---
 
-## 📬 Let’s Connect
-[![Email](https://img.shields.io/badge/Email-%20-ff6953?style=flat&logo=gmail&logoColor=white)](mailto:nhdinh.dev03@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%20-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/nhdinh03)
-[![Instagram](https://img.shields.io/badge/Instagram-%20-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nhdinhdz)
-[![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/6UbbDqKKQN)
+### 📫 Professional Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Collaborate-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/nhdinhdev03)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Expert-%23FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+[![Medium](https://img.shields.io/badge/Technical_Blogs-Follow-%23000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
 
----
-
-<p align="center"><em>💡 Open to collaborations that make a real impact — Let’s build something extraordinary!</em></p>
+<p align="center">
+  <em>Available for architectural consulting and complex project engagements</em><br/>
+  <a href="mailto:nhdinh.dev03@gmail.com">✉️ Schedule discovery call</a>
+</p>
